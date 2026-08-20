@@ -1,10 +1,10 @@
 # Hi there, I'm Mohamed Talaat 👋
-### **Data Analyst & Aspiring ML/NLP Engineer | Transforming Complex Data into Actionable Insights**
+### **Data Analyst | Transforming Complex Data into Actionable Insights**
 
 ---
 
 ### 🧬 About Me
-* 🤖 **Core Focus & AI:** Specialized in Data Analytics, Machine Learning algorithms, and Natural Language Processing (NLP) using spaCy.
+* 🎯 **Core Focus:** Specialized in Data Analytics, Data Cleaning, and Predictive Analytics using Machine Learning & spaCy.
 * 🎓 **Academic Background:** B.Sc. in Pure Mathematics & Statistics from Faculty of Science, Menoufia University.
 * 📊 **End-to-End Analytics:** Expertise spanning raw data extraction, cleaning, exploratory data analysis (EDA), statistical modeling, and interactive reporting.
 * 💡 **Value Proposition:** Combining mathematical rigor with statistical modeling to solve real-world problems and drive data-driven decision-making.
@@ -27,8 +27,8 @@
 
 | Project Name | Stack Used | Key Focus & Output |
 | :--- | :--- | :--- |
-| **[Global Supply Chain Analytics](https://github.com/Mohamed-Talaat-Data)** | `SQL` `Power BI` `Excel` | Analyzing inventory optimization, delivery performance, and profit margins. |
-| **[NYC Job Market Analysis](https://github.com/Mohamed-Talaat-Data)** | `Python` `Pandas` `SQL` | Exploratory data analysis on salary trends and in-demand tech skills in NYC. |
+| **[Global Supply Chain Analytics](https://github.com/Mohamed-Talaat-Data)** | `SQL` `Power BI` `Excel` `Python` | Analyzing inventory optimization, delivery performance, and profit margins. |
+| **[NYC Job Market Analysis](https://github.com/Mohamed-Talaat-Data)** | `Python` `Pandas` `SQL` `Power BI` | Exploratory data analysis on salary trends and in-demand tech skills in NYC. |
 
 ---
 
