@@ -4,7 +4,7 @@
 ---
 
 ### 🧬 About Me
-* 🤖 **Core Focus & AI:** Specialized in Data Analytics, Machine Learning algorithms, and Natural Language Processing (NLP) technique implementations.
+* 🤖 **Core Focus & AI:** Specialized in Data Analytics, Machine Learning algorithms, and Natural Language Processing (NLP) using spaCy.
 * 🎓 **Academic Background:** B.Sc. in Pure Mathematics & Statistics from Faculty of Science, Menoufia University.
 * 📊 **End-to-End Analytics:** Expertise spanning raw data extraction, cleaning, exploratory data analysis (EDA), statistical modeling, and interactive reporting.
 * 💡 **Value Proposition:** Combining mathematical rigor with statistical modeling to solve real-world problems and drive data-driven decision-making.
@@ -15,7 +15,7 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Machine Learning & NLP** | ![Scikit_Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Machine Learning & NLP** | ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) ![Scikit_Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 | **Languages & Querying** | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | **Data Analysis & Cleaning** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
 | **Business Intelligence & Viz** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
